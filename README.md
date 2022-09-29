@@ -58,7 +58,7 @@ Weather API will be available at http://localhost:8800/
   - Locate city id
   - Request weather forecast by sending API key and city id
 
-##Get OpenWeatherMap API key
+### Get OpenWeatherMap API key
 - To get the API key, we need to register with OpenWeatherMap. After signing up, it will redirect us to the profile settings.
   - http://openweathermap.org/
 - Above the profile settings form, there is a top menu containing several tabs. Click the API keys tab and copy the API key. This will be later used to request API for the weather forecasts.
